@@ -2,6 +2,7 @@ h1 {
     text-align: center;
     font-size: 50px;
     font-weight: 1000;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 #home {
@@ -10,8 +11,8 @@ h1 {
 }
 
 #recipe {
-    color: rgb(68, 124, 83);
-    background-color: rgb(232, 124, 142);
+    color: rgb(129, 39, 54);
+    background-color: rgb(223, 87, 110);
 }
 
 img {
@@ -19,4 +20,39 @@ img {
     margin-left: auto;
     margin-right: auto;
     height: 500px;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 36px;
+}
+
+.description {
+    color: rgb(156, 70, 24);
+    background-color: rgb(255, 145, 86);
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#time {
+    color: rgb(89, 47, 123);
+}
+
+#servings {
+    color: rgb(183, 0, 104);
+}
+
+.ingredients {
+    color:rgb(162, 90, 19);
+    background-color: rgb(255, 183, 57);
+}
+
+.steps {
+    color:rgb(125, 121, 46);
+    background-color:rgb(255, 248, 120);
 }
