@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 1000;
+}
+
+#home {
+    color: rgb(212, 99, 118);
+    background-color: rgb(126, 177, 140);
+}
+
+#recipe {
+    color: rgb(68, 124, 83);
+    background-color: rgb(232, 124, 142);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+}
