@@ -36,7 +36,16 @@ h2 {
 p {
     text-align: center;
     font-weight: bold;
+}
+
+
+li {
+    color: rgb(73, 58, 84);
+}
+
+p, li {
     font-size: 18px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #time {
