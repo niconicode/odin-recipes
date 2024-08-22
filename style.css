@@ -8,6 +8,34 @@ h1 {
 #home {
     color: rgb(212, 99, 118);
     background-color: rgb(126, 177, 140);
+    width: 400px;
+    margin: 16px auto;
+    padding: 30px;
+    border:rgb(212, 99, 118) dotted 10px;
+}
+
+.recipe-list {
+    display: block;
+    background-color:rgb(126, 177, 140);
+    border:rgb(212, 99, 118) dotted 10px;
+    width: 400px;
+    margin: 16px auto;
+    padding: 30px;
+    text-align: center;
+}
+
+button {
+    background: rgb(255, 165, 180);
+    border: 2px solid rgb(212, 99, 118);
+    display: inline-block;
+    margin: 0 auto;
+    padding: 8px 16px;
+}
+
+a {
+    color: rgb(122, 56, 67);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
 }
 
 #recipe {
